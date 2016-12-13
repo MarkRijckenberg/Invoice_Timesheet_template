@@ -1,4 +1,4 @@
-# Personaldata_Invoice_Timesheet_template
+# Personaldata_Invoice_Timesheet_Excel_template
 Integrated Invoice and Timesheet Excel template for European I.T. Freelancers, including 
 
    - automated invoice calculation based on timesheet data and data in "personal_data" tab
