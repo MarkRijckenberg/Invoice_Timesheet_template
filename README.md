@@ -1,2 +1,4 @@
 # Invoice_Timesheet_template
-integrated Invoice Timesheet Excel template for I.T. Freelancers with automated invoice calculation
+Integrated Invoice and Timesheet Excel template for European I.T. Freelancers, including automated invoice calculation.
+
+Currency used in template is the euro (€).
